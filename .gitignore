@@ -11,9 +11,9 @@ s3dis_data/
 venv/
 env/
 
-# Model Weights
-*.pth
-*.pt
+# Model Weights (Allowing pointnet_s3dis_weights.pth since it is only 3.5MB)
+# *.pth
+# *.pt
 
 # Python Caches
 __pycache__/
